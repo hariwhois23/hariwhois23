@@ -1,6 +1,6 @@
-# 💫 About Me:
-## Hey Contributors! I’m Hari
-<br>**A Cloud & DevOps explorer and a Linux enthusiast.** <br><br>Working on:<br>	•	Automating the mundane<br>	•	Containers, K8s, and CI/CD pipelines<br><br>To achieve:<br><br>$ rm -rf problems && deploy 
+#  🐙 A BIT about me,
+Hey Contributors! I’m Hari,
+<br>**A Cloud & DevOps explorer and a Linux enthusiast.** <br><br>Working on:<br>	•	Automating the mundane<br>	•	Containers, K8s, and CI/CD pipelines<br><br>To achieve:<br<br>$rm -rf problems && deploy 
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hariwhois23&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=hariwhois23&icon=5&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
