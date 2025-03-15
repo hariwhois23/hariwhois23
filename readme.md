@@ -1,6 +1,6 @@
 #  🐙 A BIT about me,
 Hey Contributors! I’m Hari,
-<br>**A Cloud & DevOps explorer and a Linux enthusiast.** <br><br>Working on:<br>	•	Automating the mundane<br>	•	Containers, K8s, and CI/CD pipelines<br><br>To achieve:<br>$rm -rf problems && deploy 
+<br>**A Cloud & DevOps explorer and a Linux enthusiast.** <br><br>Working on:<br>	•	Automating the mundane<br>	•	Containers, K8s, and CI/CD pipelines<br><br>The goal:<br>$rm -rf problems && deploy 
 
 
 ## 🌐 Socials:
