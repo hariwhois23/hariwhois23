@@ -16,4 +16,4 @@ Hey Contributors! I’m **Hari**,
 
 ## 🌐 Socials:
 
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/h44i)   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22514336)     [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prasath__hp)     [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shariprasath.in@gmail.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/h44i)   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22514336)       [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shariprasath.in@gmail.com)
