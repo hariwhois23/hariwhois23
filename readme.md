@@ -1,7 +1,7 @@
 # A BIT about me,
 
 Hey Contributors! I’m **Hari**,  
-**A Cloud & DevOps explorer and a Linux enthusiast.**
+**A Cloud & DevOps explorer also a Linux enthusiast.**
  
 ---
 
