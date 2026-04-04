@@ -1,19 +1,25 @@
-# A BIT about me,
+# My Story So Far
 
-Hey Contributors! I’m **Hari**,  
-**A Cloud & DevOps explorer also a Linux enthusiast.**
- 
+Hey Contributors! I'm **Hari**,
+a DevSecOps, Backend engineer also an OpenSource enthusiast.
+
+
+**Working on:**
+```
+$ Automating the mundane
+$ Containers, K8s, and CI/CD pipelines
+```
+
+**The goal:**
+```sh
+$ rm -rf problems && deploy
+```
+
 ---
 
-**🔧 Working on:**  
-• Automating the mundane  
-• Containers, K8s, and CI/CD pipelines  
+**Socials**
 
-**🎯 The goal:**  
-`$ rm -rf problems && deploy`
-
----
-
-## 🌐 Socials:
-
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/h44i)   [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22514336)       [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shariprasath.in@gmail.com)  [![Portfolio](https://img.shields.io/badge/Visit%20My%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hari-terminal.vercel.app)
+<a href="https://linkedin.com/in/h44i"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://prasaths.medium.com"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>&nbsp;
+<a href="https://hariprasath.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
+<a href="mailto:shariprasath.in@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
